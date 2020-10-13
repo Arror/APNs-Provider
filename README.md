@@ -38,4 +38,4 @@ c) APNs Provider不会收集您的App使用行为。
 
 ## 联系我们
 
-如果您在使用中发现任何问题，以及您有更好的建议可创建issue或发邮件至hallo.maqinag@icloud.com与我联系。
+如果您在使用中发现任何问题，以及您有更好的建议可创建issue或发邮件至hallo.maqiang@icloud.com与我联系。
